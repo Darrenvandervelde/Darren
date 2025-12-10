@@ -1,11 +1,12 @@
 <p align="center">
   <img 
-    src="https://avatars.githubusercontent.com/u/241697224?v=4"
+    src="https://avatars.githubusercontent.com/u/241697224?v=4&s=200"
     alt="Darren Profile"
     width="200"
-    style="border-radius: 50%;"
+    border="50"
   />
 </p>
+
 
 
 <h1 align="center">Hi 👋 I'm Darren van der Velde</h1>

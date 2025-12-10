@@ -14,7 +14,7 @@
 
 <h1 align="center">
   <a href="https://darrenvandervelde.free.nf/" target="_blank">
-    View My Website Portfolio 🌐
+    View My Website Portfolio 
   </a>
 </h1>
 

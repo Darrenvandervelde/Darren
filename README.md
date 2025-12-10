@@ -1,6 +1,12 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/241697224?v=4" alt="Darren Banner" style="border-radius: '20px';" />
+  <img 
+    src="https://avatars.githubusercontent.com/u/241697224?v=4"
+    alt="Darren Profile"
+    width="200"
+    style="border-radius: 50%;"
+  />
 </p>
+
 
 <h1 align="center">Hi 👋 I'm Darren van der Velde</h1>
 <h3 align="center">GitHub Mentor | Data & Software Development</h3>

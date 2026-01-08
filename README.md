@@ -1,3 +1,4 @@
+![Github stats](https://github-readme-stats.vercel.app/api?username=Darrenvandervelde)
 <p align="center">
   <img 
     src="https://avatars.githubusercontent.com/u/241697224?v=4&s=200"
